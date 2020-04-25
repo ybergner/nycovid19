@@ -1,6 +1,10 @@
 ---
-title: "NYC COVID-19 Data: Analysis and Visualization"
-output: html_notebook
+title: 'NYC COVID-19 Data: Analysis and Visualization'
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+
 ---
 
 # Part 1
